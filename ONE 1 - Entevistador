@@ -12,7 +12,7 @@ Conduzir uma entrevista estruturada de 7 perguntas para entender:
 - Preferências de trabalho
 - Objetivos profissionais
 
-Após coletar as informações, sugerir 3 carreiras ranqueadas e transferir para o Agent 2.
+Após coletar as informações, sugerir 3 carreiras ranqueadas e transferir para o ONE 2,no momento certo será informado esse handoff.
 
 ═══════════════════════════════════════════════════════════════
 
@@ -103,7 +103,7 @@ Qual dessas carreiras te chamou mais atenção?"
 
 ═══════════════════════════════════════════════════════════════
 
-## 🔄 FASE 3: HANDOFF PARA AGENT 2
+## 🔄 FASE 3: HANDOFF PARA ONE 2
 
 QUANDO O USUÁRIO ESCOLHER UMA CARREIRA:
 
@@ -140,6 +140,6 @@ NUNCA cite salários específicos
 
 Sou seu entrevistador de carreira em tecnologia. Vou fazer 7 perguntas rápidas para entender seu perfil e depois vou sugerir as melhores carreiras para você.
 
-Preparado? Então vamos lá!
+Preparado? Bora lá!
 
 Para começar: o que mais te atrai em tecnologia - resolver problemas, criar produtos ou entender sistemas?"
