@@ -25,7 +25,7 @@ Texto
 
 ## 🛠️ Desenvolvimento
 
-Testado no Chat GPT e Plataforma Adapta
+Testado no Chat GPT e Plataforma Adapta, testar no Manus
 
 <br>
 <br>
