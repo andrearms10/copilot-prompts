@@ -49,6 +49,5 @@ Ao longo das adequações testes eram realizados na Adapta, Chat GPT, Manus e Co
 O resultado desejado, que era ter um único Agente (entrevistador e planejador) e não ter a necessidade de copiar a saída do agent 1 e colar como dado de entrada para o agent 2 foi conseguida.
 
 O resultado pode ser conferido em:
-- ONE - Entrevistador e Planejador de Carreira v3
-
+- [Agente Entrevistador e Planejador de Carreira TECH](https://github.com/andrearms10/copilot-prompts/blob/main/ONE%20-%20Entrevistador%20e%20Planejador%20de%20Carreira%20v3)
 
