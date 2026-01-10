@@ -1,37 +1,40 @@
 ## ONE - Entrevistador e Planejador de Carreira TECH
 
+<br>
+
 ### 💻 Sobre o Projeto
 
-Este trabalho é um Desafio de Projeto: IA Mentor de carreira: Descubra seu futuro em tech do **Bootcamp CAIXA - Inteligência Artificial na Prática**. O projeto reside em dois agentes:
-- Agente 1 - Entrevistador
-- Agente 2 - Planejador de Carreita Tech
+Este trabalho é um Desafio de Projeto do bootcamp CAIXA — Inteligência Artificial na Prática, com o tema “IA Mentor de Carreira: Descubra seu futuro em tech”.Na proposta original, o projeto era composto por dois agentes:
 
-Ad dinâmica acontece da seguinte forma:
+- Agente 1 — Entrevistador
+- Agente 2 — Planejador de Carreira Tech
+  
+A dinâmica funcionava assim:
 
-O agente 1 faz sete perguntas para entender o perfil do usuário em tecnologia e esta informação é copiada do chat e colada no segundo chat. No segundo chat do agent 2, este lê a entrada dos dados, que são as respostas do questionário e monta três sugestões de carreiras em tecnologia.
+O Agente 1 fazia sete perguntas para identificar o perfil do usuário na área de tecnologia.
 
-O Agente 2 solicita ao usuário escolher uma carreira e a partir desta informação, é montado um roadmap de 90 dias para o usuário.
+As respostas eram copiadas do chat e coladas em um segundo chat, do Agente 2.
 
-Como no projeto não tinham informações sobre que tarefa executar, eu decidi ter como objetivo, juntar os dois agentes em um, não necessitando ter dois chats e nem colar dados de um lado para o outro. Tudo será iniciado e concluído em um único chat e agente.
+O Agente 2 analisava as respostas, gerava três sugestões de carreira em tech e pedia que o usuário escolhesse uma delas.
 
+Com a escolha definida, o agente criava um roadmap de 90 dias para orientar os próximos passos do usuário.
+
+Como o desafio não especificava claramente qual caminho seguir na execução, defini como objetivo unificar os dois agentes em um único — eliminando a necessidade de usar dois chats e de transferir manualmente as informações de um para o outro. Assim, todo o processo passa a acontecer do início ao fim em um único chat e com um único agente
 
 <br>
 
 ### 📚 Ferramentas utilizadas
 
 - GitHub
-  
-- Chat GPT
-
+- ChatGPT
 - Manus
-
 - Copilot
-  
-- Plataforma Adapta <br>
-    - ###### Os teste com os prompts deste projeto também ocorreram na Adapta, uma plataforma de inteligência artificial que opera sob uma lógica de orquestração avançada. No front-end, a interação acontece diretamente com a ONE — a IA principal que gerencia toda a experiência e interface com o usuário. Nos bastidores, a ONE atua como uma maestrina tecnológica, conectando-se a um ecossistema robusto de modelos de ponta, como Claude, Gemini, DeepSeek, Grok, Perplexity e ferramentas especializadas em imagem, como Nano Banana e GPT Image.
+- Plataforma Adapta
+    - ###### Os testes com os prompts deste projeto também foram realizados na Adapta, uma plataforma de inteligência artificial que opera com uma lógica de orquestração avançada. No front-end, a interação acontece diretamente com a ONE — a IA principal que gerencia toda a experiência e a interface com o usuário.
 
+    - ###### Nos bastidores, a ONE atua como uma “maestrina”, conectando-se a um ecossistema de modelos e ferramentas, como Claude, Gemini, DeepSeek, Grok, Perplexity e soluções especializadas em imagem, como Nano Banana e GPT Image.
 
-    - ###### O diferencial reside na automação inteligente: ao receber uma requisição, a ONE identifica instantaneamente qual motor de IA é o mais capacitado para aquela tarefa específica no backend. Após esse processamento especializado, a ONE recebe a resposta, valida a qualidade e a entrega de forma fluida. Esse padrão garante que o usuário sempre tenha acesso ao melhor de cada tecnologia disponível no mercado através de uma interface única, simplificada e eficiente.
+    - ###### O diferencial está na automação inteligente: ao receber uma solicitação, a ONE identifica qual motor é mais adequado para aquela tarefa, processa a requisição e devolve a resposta final já validada e apresentada de forma fluida, garantindo acesso ao melhor de cada tecnologia por meio de uma única interface.
 
 
 <br>
