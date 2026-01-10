@@ -2,7 +2,15 @@
 
 ### 💻 Sobre o Projeto
 
-Este trabalho é um Desafio de Projeto: IA Mentor de carreira: Descubra seu futuro em tech do **Bootcamp CAIXA - Inteligência Artificial na Prática**.  
+Este trabalho é um Desafio de Projeto: IA Mentor de carreira: Descubra seu futuro em tech do **Bootcamp CAIXA - Inteligência Artificial na Prática**. O projeto reside em dois agentes:
+- Agente 1 - Entrevistador
+- Agente 2 - Planejador de Carreita Tech
+
+Ad diâÂmica acontece da seguinte forma:
+
+O agente 1 faz sete perguntas para entender o perfil do usuário em tecnologia e esta informação é copiada do chat e colada no segundo chat. Neste segundo chat o agent 2 lê a entrada dos dados que foram coladas, que são as respostas do questionário e monta três sugestões de carreiras em tecnologia.
+
+É solicitado ao usuário escolher uma carreira e a partir da informação, é montado um roadmap de 90 dias para o usuário.
 
 
 <br>
