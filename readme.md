@@ -6,7 +6,7 @@
       src="https://raw.githubusercontent.com/digitalinnovationone/template-github-trilha/main/.github/assets/logo.webp" 
       width="100px" 
     />
-    <h1>ONE- Entrevistador e Planejador de Carreira TECH </h1>
+    <h1>ONE - Entrevistador e Planejador de Carreira TECH </h1>
   </p>
 </div>
 <!--END_SECTION:header-->
