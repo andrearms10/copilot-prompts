@@ -26,7 +26,7 @@ Como no projeto não tinham informações sobre que tarefa executar, eu decidi t
 - Manus
   
 - Plataforma Adapta <br>
-    - ###### Os teste com os prompts deste projeto ocorreu na Adapta, uma plataforma de inteligência artificial que opera sob uma lógica de orquestração avançada. No front-end, a interação acontece diretamente com a ONE — a IA principal que gerencia toda a experiência e interface com o usuário. Nos bastidores, a ONE atua como uma maestrina tecnológica, conectando-se a um ecossistema robusto de modelos de ponta, como GPT, Claude, Gemini, DeepSeek, Grok, Perplexity e ferramentas especializadas em imagem, como Nano Banana e GPT Image.
+    - ###### Os teste com os prompts deste projeto também ocorreram na Adapta, uma plataforma de inteligência artificial que opera sob uma lógica de orquestração avançada. No front-end, a interação acontece diretamente com a ONE — a IA principal que gerencia toda a experiência e interface com o usuário. Nos bastidores, a ONE atua como uma maestrina tecnológica, conectando-se a um ecossistema robusto de modelos de ponta, como Claude, Gemini, DeepSeek, Grok, Perplexity e ferramentas especializadas em imagem, como Nano Banana e GPT Image.
 
 
     - ###### O diferencial reside na automação inteligente: ao receber uma requisição, a ONE identifica instantaneamente qual motor de IA é o mais capacitado para aquela tarefa específica no backend. Após esse processamento especializado, a ONE recebe a resposta, valida a qualidade e a entrega de forma fluida. Esse padrão garante que o usuário sempre tenha acesso ao melhor de cada tecnologia disponível no mercado através de uma interface única, simplificada e eficiente.
@@ -36,7 +36,11 @@ Como no projeto não tinham informações sobre que tarefa executar, eu decidi t
 
 ### 🛠️ Desenvolvimento
 
-Testado no Chat GPT e Plataforma Adapta, testar no Manus
+O objetivo não foi conseguido de prima. 
+
+Ao juntar os dois prompts dos agentes 1 e 2 foram necessários ajustes no prompt único, adequando a integração e permitindo que a entrevista e o planejamento de carreira acontecesse de forma fluida em um único chat.
+
+Após os jTestado no Chat GPT e Plataforma Adapta, testar no Manus
 
 <br>
 
