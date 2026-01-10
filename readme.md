@@ -6,13 +6,13 @@ Este trabalho é um Desafio de Projeto: IA Mentor de carreira: Descubra seu futu
 - Agente 1 - Entrevistador
 - Agente 2 - Planejador de Carreita Tech
 
-Ad diâÂmica acontece da seguinte forma:
+Ad dinâmica acontece da seguinte forma:
 
-O agente 1 faz sete perguntas para entender o perfil do usuário em tecnologia e esta informação é copiada do chat e colada no segundo chat. Neste segundo chat o agent 2 lê a entrada dos dados, que são as respostas do questionário e monta três sugestões de carreiras em tecnologia.
+O agente 1 faz sete perguntas para entender o perfil do usuário em tecnologia e esta informação é copiada do chat e colada no segundo chat. No segundo chat do agent 2, este lê a entrada dos dados, que são as respostas do questionário e monta três sugestões de carreiras em tecnologia.
 
 O Agente 2 solicita ao usuário escolher uma carreira e a partir desta informação, é montado um roadmap de 90 dias para o usuário.
 
-Como no projeto não tinham informações sobre que tarefa executar, eu decidi ter como objetivo, juntar os dois agentes em um, não necessitando ter dois chats e nem colar dados de um lado para o outro. Tudo era iniciado e concluído em um único chat.
+Como no projeto não tinham informações sobre que tarefa executar, eu decidi ter como objetivo, juntar os dois agentes em um, não necessitando ter dois chats e nem colar dados de um lado para o outro. Tudo será iniciado e concluído em um único chat e agente.
 
 
 <br>
@@ -24,6 +24,8 @@ Como no projeto não tinham informações sobre que tarefa executar, eu decidi t
 - Chat GPT
 
 - Manus
+
+- Copilot
   
 - Plataforma Adapta <br>
     - ###### Os teste com os prompts deste projeto também ocorreram na Adapta, uma plataforma de inteligência artificial que opera sob uma lógica de orquestração avançada. No front-end, a interação acontece diretamente com a ONE — a IA principal que gerencia toda a experiência e interface com o usuário. Nos bastidores, a ONE atua como uma maestrina tecnológica, conectando-se a um ecossistema robusto de modelos de ponta, como Claude, Gemini, DeepSeek, Grok, Perplexity e ferramentas especializadas em imagem, como Nano Banana e GPT Image.
@@ -36,16 +38,17 @@ Como no projeto não tinham informações sobre que tarefa executar, eu decidi t
 
 ### 🛠️ Desenvolvimento
 
-O objetivo não foi conseguido de prima. 
+Ao juntar os dois prompts dos agentes 1 e 2 foram necessários ajustes no prompt único, adequando a integração e permitindo que a entrevista e o planejamento de carreira acontecessem de forma fluida em um único chat.
 
-Ao juntar os dois prompts dos agentes 1 e 2 foram necessários ajustes no prompt único, adequando a integração e permitindo que a entrevista e o planejamento de carreira acontecesse de forma fluida em um único chat.
-
-Após os jTestado no Chat GPT e Plataforma Adapta, testar no Manus
+Ao longo das adequações testes eram realizados na Adapta, Chat GPT, Manus e Copilot para verificar a performance do novo prompt.
 
 <br>
 
 ### 🎯 Resultado
 
-O resultado desejado era ter um único agent (entrevistador e planejador) e não ter a necessidade de copiar a saída do agent 1 e colar na entrada do agent 2
+O resultado desejado, que era ter um único Agente (entrevistador e planejador) e não ter a necessidade de copiar a saída do agent 1 e colar como dado de entrada para o agent 2 foi conseguida.
+
+O resultado pode ser conferido em:
+- 
 
 
