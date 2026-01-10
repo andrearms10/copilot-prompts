@@ -5,14 +5,16 @@
 Texto
 
 
-## 📚 Pré-requisitos de Habilidades e Níveis de Conhecimento
+## 📚 Ferramentas utilizadas
 
-Texto
+- GitHub
+- Chat GPT
+- Plataforma Adapta
 
 
-## 🛠️ Habilidades e Sub-habilidades que vamos aprender neste conteúdo
+## 🛠️ Desenvolvimento
 
-Texto
+Testado no Chat GPT e Plataforma Adapta
 
 
 ## 🎯 Objetivos e Resultados Esperados
